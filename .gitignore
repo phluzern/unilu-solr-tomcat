@@ -1,0 +1,5 @@
+*.out
+*.log
+*.tmp
+/solr/typo3cores/data/
+/solr/typo3cores/data/
