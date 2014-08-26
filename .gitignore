@@ -2,4 +2,7 @@
 *.log
 *.tmp
 /solr/typo3cores/data/
-/solr/typo3cores/data/
+/solr/typo3cores/logs/
+/logs
+/tomcat/bin/logs
+/tomcat/work
