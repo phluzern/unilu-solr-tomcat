@@ -3,5 +3,7 @@
 	<cores adminPath="/admin/cores" shareSchema="true">
 		<core name="german" instanceDir="typo3cores" schema="german/schema.xml" dataDir="data/german" />
 		<core name="english" instanceDir="typo3cores" schema="english/schema.xml" dataDir="data/english" />
+		<core name="french" instanceDir="typo3cores" schema="french/schema.xml" dataDir="data/french" />
+		<core name="italian" instanceDir="typo3cores" schema="italian/schema.xml" dataDir="data/italian" />
 	</cores>
 </solr>
