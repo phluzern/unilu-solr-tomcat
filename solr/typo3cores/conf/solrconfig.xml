@@ -95,6 +95,8 @@
 	<indexConfig>
 		<lockType>native</lockType>
 		<infoStream>true</infoStream>
+		<useCompoundFile>false</useCompoundFile>
+		<mergeFactor>10</mergeFactor>
 	</indexConfig>
 
 
